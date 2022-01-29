@@ -24,10 +24,6 @@ MC材质包
 >### 导入方法
 相信大家都会把材质包导入MC吧  
 不会戳[这](https://www.baidu.com)
-![BQB](https://cdn.jsdelivr.net/gh/zhaoolee/ChineseBQB@master/015Golden_Curator_Panda%E9%87%91%E9%A6%86%E9%95%BF%E7%86%8A%E7%8C%AB%F0%9F%90%BCBQB/%E9%87%91%E9%A6%86%E9%95%BF%E7%86%8A%E7%8C%AB00004-%E6%95%B2%E6%A1%8C%E5%AD%90.gif)  
-
-神奇的小玩意  
-![XDX](https://api.muxiaoguo.cn/api/netcard)
-
+![BQB](https://cdn.jsdelivr.net/gh/zhaoolee/ChineseBQB@master/015Golden_Curator_Panda%E9%87%91%E9%A6%86%E9%95%BF%E7%86%8A%E7%8C%AB%F0%9F%90%BCBQB/%E9%87%91%E9%A6%86%E9%95%BF%E7%86%8A%E7%8C%AB00004-%E6%95%B2%E6%A1%8C%E5%AD%90.gif)
 # **作者QQ:3314518364**
 
