@@ -19,7 +19,7 @@ MC材质包
 切换至电脑UA  
 然后照非git用户食用
 # ~~什么?你想无脑操作?~~
-~~**戳这→ [姐的材质包](https://github.com/yhrwd/yhr-mcpack/archive/refs/heads/master.zip "懒人专用(划掉")**~~
+~~**戳这→ [欧的材质包](https://github.com/yhrwd/yhr-mcpack/archive/refs/heads/master.zip "懒人专用(划掉")**~~
 
 >### 导入方法
 相信大家都会把材质包导入MC吧  
