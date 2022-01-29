@@ -13,7 +13,7 @@
     "shadow": true,
     "anchor_from": "center",
     "anchor_to": "center",
-    "layer": 100,
+    "layer": 1,
     "offset": [ 0, -3 ]
   },
 
