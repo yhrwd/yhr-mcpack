@@ -4,23 +4,30 @@
   //---------------------------------------------------------------------------
   // Hud Screen
   //---------------------------------------------------------------------------
-  
+  "yhrwd_p": {
+    "type": "stack_panel",
+    "orientation": "vertical",
+    "size": [ 16, 6 ],
+    "anchor_from": "center",
+    "anchor_to": "center",
+    "layer": 10,
+    "offset": [ 0, -5 ],
+    "controls":[ { "player_position@hud.player_position": {} } ]
+  },
   "yhrwd": {
     "type": "label",
-    "size": [ "100%c + 6px", "100%c + 2px" ],
+    "font_size": "small",
     "text": "By-YHRWD",
-    "text_alignment": "center",
     "shadow": true,
     "anchor_from": "center",
     "anchor_to": "center",
-    "layer": 1,
-    "offset": [ 0, -4 ]
+    "layer": 10,
+    "offset": [ 0, -3 ]
   },
 
   "hud_player_renderer": {
     "type": "panel",
     "size": [ 16, 16 ],
-
     "controls": [
       {
         "hud_player": {
