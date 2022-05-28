@@ -1,8 +1,6 @@
 
 ># YHRWD材质包
 
-![MM](https://camo.githubusercontent.com/cef48435cdcc2d78051e7891a55b5e2c836dbd8408f9bf798a787db30aeb7fc4/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406b617967623f7468656d653d72756c653334)
-
 MC材质包  
 目前是半成品  
 材质包名称与本人github（yhrwd）名同名  
