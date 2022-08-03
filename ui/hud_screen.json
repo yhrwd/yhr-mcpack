@@ -1,0 +1,137 @@
+{
+  "namespace": "hud",
+  "yhrwd": {
+    "type": "label",
+    "font_size": "small",
+    "text": "By-YHRWD",
+    "shadow": true,
+    "anchor_from": "bottom_right",
+    "anchor_to": "bottom_right",
+    "layer": 10,
+    "offset": [0, -3]
+  },
+  "exp_progress_bar_and_hotbar": {
+    "controls": [
+      {
+        "resizing_xp_bar_with_hotbar": {
+          "controls": [
+            {
+              "empty_progress_bar@empty_progress_bar": {
+                "controls": [
+                  {
+                    "full_progress_bar@full_progress_bar": {
+                      "controls": [
+                        {
+                          "progress_bar_nub@progress_bar_nub": {
+                            "controls": [
+                              {
+                                "hotbar@hotbar_chooser": {
+                                  "offset": [3, 16]
+                                }
+                              }
+                            ]
+                          }
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "hotbar@hotbar_chooser": {
+          "offset": [3, 16]
+        }
+      }
+    ]
+  },
+  "elipses_image": {
+    "alpha": 0
+  },
+  "default_borderless_button_layout": {
+    "alpha": 0
+  },
+  "hover_borderless_button_layout@default_borderless_button_layout": {
+    "alpha": 0
+  },
+  "pressed_borderless_button_layout@default_borderless_button_layout": {
+    "alpha": 0
+  },
+  "end_cap_image@start_cap_image": {
+    "offset": [-20, 0]
+  },
+  "player_position": {
+    "size": ["100%c + 3px", "100%c + 1px"],
+    "anchor_from": "center",
+    "anchor_to": "center",
+    "offset": [0, 4],
+    "alpha": 0.2,
+    "controls": [
+      {
+        "player_position_text": {
+          "type": "label",
+          "anchor_from": "center",
+          "anchor_to": "center",
+          "layer": 1
+        }
+      }
+    ]
+  },
+  "chat_grid_item": {
+    "anchor_from": "center",
+    "anchor_to": "center",
+    "controls": [
+      {
+        "chat_background": {
+          "texture": "textures/ui/Black",
+          "alpha": 0.1,
+          "controls": [
+            {
+              "chat_text@chat_label": {
+                "anchor_from": "center",
+                "anchor_to": "center",
+                "offset": [2, 0]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "chat_panel": {
+    "anchor_from": "center",
+    "anchor_to": "center",
+    "size": ["60%", "80%c"]
+  },
+  "item_name_text_root": {
+    "controls": [
+      {
+        "item_text_aligner": {
+          "controls": [
+            {
+              "item_text_control": {
+                "controls": [
+                  {
+                    "item_text_label": {
+                      "max_size": [250, "default"]
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "hud_content": {
+    "controls": [
+      {
+        "yhrwd@hud.yhrwd": {}
+      }
+    ]
+  }
+}

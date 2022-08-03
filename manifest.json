@@ -1,0 +1,17 @@
+{
+   "format_version" : 2.0,
+   "header" : {
+      "description" : "来更好的游戏体验\n",
+      "name" : "Mi",
+      "uuid" : "ecf0b356-204c-4821-bf16-9eb06d6ea53a",
+      "version" : [ 1, 0, 1 ]
+   },
+   "modules" : [
+      {
+         "description" : "YHRWD",
+         "type" : "resources",
+         "uuid" : "a16838f4-1972-43bc-87a5-0129df798c02",
+         "version" : [ 1, 0, 1 ]
+      }
+   ]
+}
