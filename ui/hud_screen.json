@@ -1015,7 +1015,8 @@
           // The layering is for cover the grid cap/black border when this panel is visible
           "layer": 2,
           //Grab the right hand end of the hotbar
-          "texture": "textures/ui/hotbar_8"
+          "texture": "textures/ui/hotbar_8",
+          "alpha": 0
         }
       },
       { "button@hud.hotbar_elipses_button": {} }
